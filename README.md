@@ -6,7 +6,7 @@
 
 | ファイル  | 概要 | 対応する章 |
 | ----| ----| ----|
-|  [K_kinetics.ipynb](https://github.com/stoyabe/biophys/blob/main/K_kinetics.ipynb)  <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/K_kinetics.ipynb) | K1 ミカエリス-メンテンモデル<br> K2 ヘモグロビン  | 第3章 |
+|  [K_kinetics.ipynb](https://github.com/stoyabe/biophys/blob/main/K_kinetics.ipynb)  <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/K_kinetics.ipynb) | K1 ミカエリス-メンテンモデル<br> K2 アロステリック効果（ヘモグロビン，ポーリングモデル）  | 第3章 |
  | [D_dynamicalsystem.ipynb](https://github.com/stoyabe/biophys/blob/main/D_dynamicalsystem.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/D_dynamicalsystem.ipynb) | D1 固定点<br> D2 ファンデルポール型振動子 <br> D3 チューリングパターン | 第4章 |
   | [F_fluctuation.ipynb](https://github.com/stoyabe/biophys/blob/main/F_fluctuation.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/F_fluctuation.ipynb) | F1 中心極限定理 <br> F2 ランダムウォーク<br> F3 自己相関関数 <br> F4 拡散方程式<br> F5 移流拡散方程式<br> F6 ランジュバン方程式 | 第5章 |
 | [Q_structure.ipynb](https://github.com/stoyabe/biophys/blob/main/Q_structure.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/Q_structure.ipynb)  | Q1 エントロピー弾性<br> Q2 枯渇力 | 第6章 |
