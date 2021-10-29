@@ -13,4 +13,4 @@
 | [M_motor.ipynb](https://github.com/stoyabe/biophys/blob/main/M_motor.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/M_motor.ipynb)  | M1 分子ポンプ<br>M2 パワーストロークと拡散整流<br> M3 マルコフ遷移モデル<br>M4 フラッシングラチェット<br> M5 滞在時間分布 | 第9章，第10章  |
 | [C_cell.ipynb](https://github.com/stoyabe/biophys/blob/main/C_cell.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/C_cell.ipynb) | C1 相分離<br> C2 ビチェックモデル | 第13章，第14章 |
 
-ソースコードは，理解しやすさや修正のしやすさを優先して作っており，高速化は追及していません．プログラムをいじって遊ぶことで現象の理解の助けになると期待しています．
+ソースコードは，理解しやすさや修正のしやすさを優先して作っており，高速化や美しさは追及していません．プログラムをいじって遊ぶことで現象の理解の助けになると期待しています．
