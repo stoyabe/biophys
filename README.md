@@ -7,7 +7,7 @@
 
 | ファイル  | 概要 | 対応する章 |
 | ----| ----| ----|
-|  [K_kinetics.ipynb](https://github.com/stoyabe/biophys/blob/main/K_kinetics.ipynb)  <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/K_kinetics.ipynb) | K1 ミカエリス-メンテンモデル<br> K2 アロステリック効果  | 第3章 |
+|  [K_kinetics.ipynb](K_kinetics.ipynb)  <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/K_kinetics.ipynb) | K1 ミカエリス-メンテンモデル<br> K2 アロステリック効果  | 第3章 |
  | [D_dynamicalsystem.ipynb](https://github.com/stoyabe/biophys/blob/main/D_dynamicalsystem.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/D_dynamicalsystem.ipynb) | D1 固定点<br> D2 ファンデルポール型振動子 <br> D3 チューリングパターン<br> D4 SIRモデル | 第4章 |
   | [F_fluctuation.ipynb](https://github.com/stoyabe/biophys/blob/main/F_fluctuation.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/F_fluctuation.ipynb) | F1 マルコフジャンプ<br> F2 ギレスピーアルゴリズム <br> F3 中心極限定理 <br> F4 ランダムウォーク <br> F5 拡散方程式<br> F6 移流拡散方程式<br> F7 自己相関関数<br> F8 ランジュバン方程式 | 第5章，第6章 |
 | [S_structure.ipynb](https://github.com/stoyabe/biophys/blob/main/S_structure.ipynb) <br><br> [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stoyabe/biophys/blob/main/S_structure.ipynb)  | S1 エントロピー弾性<br> S2 枯渇力 | 第7章 |
