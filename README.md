@@ -1,7 +1,7 @@
 # 「生物物理学」サポートサイト
 [鳥谷部祥一著「生物物理学」（日本評論社 物理学アドバンストシリーズ）](https://www.nippyo.co.jp/shop/book/8854.html)
 
-<b>[第2刷での修正](生物物理学修正（第1刷）.pdf) (2023/6/28)</b>
+<b>[第2刷での修正](http://web.tohoku.ac.jp/bp/wp-content/uploads/生物物理学修正（第１刷）.pdf) (2023/6/28)</b>
 
 本書に関連するPython用ソースコードを提供しています．Jupyter Notebook形式ファイルとなっています．
 実行環境をお持ちでない方は，"Open in Colab"ボタンをクリックすると，Google Colabからファイルを開くことができ，実行することもできます．
